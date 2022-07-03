@@ -1,0 +1,16 @@
+form#SignUpmodal-signup .form-group .row .col-4 label {
+    font-size: 15px;
+}
+
+#processing {
+    color: #000;
+    display: none;
+    text-align: center;
+    font-size: 2em;
+    position: fixed;
+    top: 50px;
+    left: -webkit-calc(50% - 54px);
+    left: -moz-calc(50% - 54px);
+    left: calc(50% - 54px);
+    z-index: 1111;
+}
